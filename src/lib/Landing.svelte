@@ -12,6 +12,7 @@ import MainButton from "./MainButton.svelte";
     </div>
 </section>
 
+
 <style>
 .landing::after {
   content: '';
